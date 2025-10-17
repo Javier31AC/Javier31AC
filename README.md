@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Javier31AC">
-    <img src="https://raw.githubusercontent.com/dancrv/dancrv/main/assets/banner_1.svg" alt="Bienvenido al perfil de Javier31AC" width="100%">
+    <img src="./img/BannerGithub.jpg" borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'>
   </a>
 </p>
 
