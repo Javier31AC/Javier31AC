@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Javier31AC">
-    <img src="./img/BannerGithub2.jpg" borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)' width="90%">
+    <img src="./img/BannerGithub2.jpg" borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'>
   </a>
 </p>
 
