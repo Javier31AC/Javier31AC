@@ -63,9 +63,9 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Javier31AC&show_icons=true&theme=dracula&count_private=true" alt="Estadísticas GitHub" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Javier31AC&show_icons=true&theme=dracula&count_private=true" alt="Estadísticas de GitHub de Javier31AC" />
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Javier31AC&layout=compact&theme=dracula&hide=html,css" alt="Lenguajes GitHub" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Javier31AC&layout=compact&theme=dracula" alt="Lenguajes más usados por Javier31AC" />
 </p>
 
 ---
